@@ -10,3 +10,16 @@ body {
   background: white;
   border-radius: 12px;
 }
+
+section {
+  margin-top: 24px;
+  padding: 20px;
+  background: #eaf3ff;
+  border-left: 4px solid #2563eb;
+  border-radius: 8px;
+}
+
+section h2 {
+  margin-top: 0;
+  color: #1d4ed8;
+}
