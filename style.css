@@ -23,3 +23,8 @@ section h2 {
   margin-top: 0;
   color: #1d4ed8;
 }
+
+/* CSS sai để thực hành revert */
+section {
+  display: none;
+}
